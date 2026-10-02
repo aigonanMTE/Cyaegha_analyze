@@ -1,0 +1,2 @@
+0 not_playing
+1 playing
